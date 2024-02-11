@@ -85,7 +85,6 @@ app.listen(3000, () => {
 */
 
 //To use zod
-
 const express = require("express");
 const zod = require("zod");
 const app = express();
